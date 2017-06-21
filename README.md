@@ -8,7 +8,6 @@ This project follows the tutorial at [React.js Tutorial](https://facebook.github
 
 ### Steps
 ![](https://github.com/Tempay/tictactoe/blob/master/img/step_1.png "Step 1")
-- step 1
 
 ### Winner
 ![](https://github.com/Tempay/tictactoe/blob/master/img/win.png "Get winner")
